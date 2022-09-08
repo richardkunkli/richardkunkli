@@ -2,7 +2,9 @@ Hi 👋 My name is Richard Kunkli
 ===============================
 Front-End Developer and UI/UX Designer
 --------------------------------------
-I've been learning coding for 2 years by myself. 
+I've been learning coding for 2 years by myself.
+Currently I'm learning electrical engineering in Debrecen.
+
 * 🌍  I'm based in Hungary
 * 🖥️  See my portfolio at [richardkunkli-portfolio.vercel.app](http://richardkunkli-portfolio.vercel.app)
 * ✉️  You can contact me at [kunklirichard@gmail.com](mailto:kunklirichard@gmail.com)
@@ -15,7 +17,3 @@ I've been learning coding for 2 years by myself.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/richardkunkli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/richardkunkli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<a href="https://github.com/richardkunkli" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardkunkli&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
