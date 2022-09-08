@@ -5,10 +5,10 @@ Front-End Developer and UI/UX Designer
 I've been learning coding for 2 years by myself.
 Currently I'm learning electrical engineering in Debrecen.
 
-* 🌍  I'm based in Hungary
+* 🌍  I'm based in Hungary
 * 🖥️  See my portfolio at [richardkunkli-portfolio.vercel.app](http://richardkunkli-portfolio.vercel.app)
 * ✉️  Feel free to contact me at [kunklirichard@gmail.com](mailto:kunklirichard@gmail.com)
-* 👨🏼‍💻  I'm immersing myself in SwiftUI
+* 👨🏼‍💻  I'm immersing myself in SwiftUI
 
 ### Skills
 
