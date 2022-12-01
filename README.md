@@ -2,7 +2,7 @@ Hi 👋 My name is Richard Kunkli
 ===============================
 Front-End Developer and UI/UX Designer
 --------------------------------------
-I've been learning coding for 2 years by myself.
+I've been learning coding for 3 years by myself.
 Currently, I'm learning electrical engineering in Debrecen.
 
 * 🌍  I'm based in Hungary
