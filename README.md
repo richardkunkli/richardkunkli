@@ -6,7 +6,7 @@ I've been learning coding for 3 years by myself.
 Currently, I'm learning electrical engineering in Debrecen.
 
 * 🌍  I'm based in Hungary
-* 🖥️  See my portfolio at [richardkunkli-portfolio.vercel.app](http://richardkunkli-portfolio.vercel.app)
+* 🖥️  See my portfolio at [richardkunkli.com](https://richardkunkli.com)
 * ✉️  Feel free to contact me at [kunklirichard@gmail.com](mailto:kunklirichard@gmail.com)
 * 👨🏼‍💻  I'm immersing myself in SwiftUI
 
