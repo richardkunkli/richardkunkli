@@ -8,7 +8,6 @@ Currently, I'm learning electrical engineering in Debrecen.
 * 🌍  I'm based in Hungary
 * 🖥️  See my portfolio at [richardkunkli.com](https://richardkunkli.com)
 * ✉️  Feel free to contact me at [richard@kunkli.com](mailto:richard@kunkli.com)
-* 👨🏼‍💻  I'm immersing myself in SwiftUI
 
 ### Skills
 
