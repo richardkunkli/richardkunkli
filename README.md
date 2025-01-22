@@ -1,13 +1,12 @@
 Hi 👋 My name is Richard Kunkli
 ===============================
-iOS Developer and UI/UX Designer
+Developer and UI/UX Designer
 --------------------------------------
-I've been learning coding for 3 years by myself.
-Currently, I'm learning electrical engineering in Debrecen.
 
 * 🌍  I'm based in Hungary
-* 🖥️  See my portfolio at [richardkunkli.com](https://richardkunkli.com)
+* 🖥️  See my portfolio at [kunkli.com](https://kunkli.com)
 * ✉️  Feel free to contact me at [richard@kunkli.com](mailto:richard@kunkli.com)
+* 🛠️  Currently working on my new Mac app
 
 ### Skills
 
@@ -15,4 +14,7 @@ Currently, I'm learning electrical engineering in Debrecen.
 
 ### Socials
 
-<p align="left"><a href="https://www.linkedin.com/in/richardkunkli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/richardkunkli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://x.com/richardkunkli" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" class="invert" width="32" height="32" /></a>
+</p>
