@@ -7,6 +7,7 @@ Developer and UI/UX Designer
 * 🖥️  See my portfolio at [kunkli.com](https://kunkli.com)
 * ✉️  Feel free to contact me at [richard@kunkli.com](mailto:richard@kunkli.com)
 * 🛠️  Currently working on my new Mac app
+* 💻  One of the main developer of [BoringNotch](https://github.com/TheBoredTeam/boring.notch) – ⬇️ 88k+ downloads ⭐️ 1.9k+ stars]
 
 ### Skills
 
