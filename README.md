@@ -10,6 +10,6 @@
     <a href="https://twitter.com/richardkunkli">X</a>
     /
     <a href="https://www.linkedin.com/in/richardkunkli">LinkedIn</a>
-    </samp><br><br> 
+    </samp><br>
   </p>
 </p>
